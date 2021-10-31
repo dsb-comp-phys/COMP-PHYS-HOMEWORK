@@ -1,6 +1,4 @@
 # COMP-PHYS-HOMEWORK
-A collection of homework assignments completed for a first course in computational physics.
-
 **Homework 1: Euler Method with Exponential Decay**\
 _[report](https://github.com/dsb-comp-phys/COMP-PHYS-HOMEWORK/blob/main/HW1__Euler_Method_with_Exponential_Decay__Copy_.pdf), [code](https://github.com/dsb-comp-phys/COMP-PHYS-HOMEWORK/blob/main/bristow_hw01.m)_
 
